@@ -1,0 +1,36 @@
+h1{
+    color:red;
+    text-shadow: 1px 1px 0px blue, 2px 2px 0px wheat, 3px 3px 0px orange;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+button{
+    height: 300px;
+    width: 300px;
+    background-color: #5583EE;
+    border-radius: 210px;
+    padding: 0px;
+    border:3px solid red;
+    font-size: x-large;
+    text-shadow: 2px 1px 1px wheat,2px 1px 0px palevioletred, 1px 0px 0px orange;
+}
+#size
+{
+    height: 100px;
+    background-color: green;
+    cursor: pointer;
+}
+.size1
+{
+    height: 100px;
+    background-color: red;
+    cursor: pointer;
+}
+.size2
+{
+    height: 100px;
+    background-color: orange;
+    cursor: pointer;
+}
